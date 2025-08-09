@@ -3,12 +3,7 @@ title: Seyfried Research Story
 layout: base
 date: 2024-12-02
 ---
-
-
-# Sugar, Emeralds, and Unicorn Horn
-## A Research Story by Jonathan Seyfried
-
-<div class="jumbotron" style="position: relative; overflow: hidden; width: 100vw; height: 400px; margin-bottom: 2rem;">
+<div class="jumbotron" style="position: relative; overflow: hidden; width: 100%; height: 400px; margin-bottom: 2rem;">
   <video id="heroVideo"
          autoplay
          muted
@@ -35,7 +30,7 @@ window.addEventListener('scroll', function() {
   }
 });
 </script>
-
+#A Research Story by Jonathan Seyfried
 
 ## Why did Matha Armagnac drink pulverized gemstones?
 Info about Matha
