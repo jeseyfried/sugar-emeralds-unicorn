@@ -17,7 +17,7 @@ date: 2024-12-02
          style="width: 100%; height: 100%; object-fit: cover;">
     <source src="{{site.baseurl}}/assets/sugar-emeralds-unicorn.mp4" type="video/mp4">
   </video>
-  <div class="jumbotron-overlay" style="position: relative; z-index: 2;>
+  <div class="jumbotron-overlay" >
     <!-- Sugar Emeralds and Unicorn Horn -->
   </div>
 </div>
