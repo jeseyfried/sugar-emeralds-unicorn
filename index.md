@@ -1,11 +1,12 @@
 ---
-title: Medieval Pharmacology Research Story
+title: Seyfried Research Story
 layout: base
 date: 2024-12-02
 ---
 
 
 # Sugar, Emeralds, and Unicorn Horn
+## A Research Story by Jonathan Seyfried
 
 <div class="jumbotron" style="position: relative; overflow: hidden; height: 400px;">
   <video id="heroVideo" 
@@ -34,17 +35,13 @@ window.addEventListener('scroll', function() {
 </script>
 
 
-{% include figure.html
-  class="right"
-  width="33%"
-  caption="Xanthan chemical structure"
-  image-path="/assets/images/Xanthan.svg"
-  source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
-%}
+## Why did Matha Armagnac drink pulverized gemstones?
+Info about Matha
 
+## The Research Question: How did medieval apothecaries and merchants construct medical knowledge?
+Info about substances and medicine
 
-This is your home page! It's the `index.md` file in your repository.
-
-For more information about your site works, see the `Website Guides` tab.
+## Three Commodities, Three Pathways to Medicine
+Info about the pathways
 
 For more on adding features to your pages, see the documentation under the `Page Components` tab.
