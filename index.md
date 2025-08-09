@@ -8,7 +8,7 @@ date: 2024-12-02
 # Sugar, Emeralds, and Unicorn Horn
 
 <div class="jumbotron" style="position: relative; overflow: hidden; height: 400px;">
-  <video id="Sugar Emeralds Unicorn Horn" 
+  <video id="heroVideo" 
          autoplay 
          muted 
          loop 
