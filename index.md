@@ -14,7 +14,7 @@ date: 2024-12-02
          loop 
          playsinline 
          style="width: 100%; height: 100%; object-fit: cover;">
-    <source src="/assets/sugar-emeralds-unicorn.mp4" type="video/mp4">
+    <source src="assets/sugar-emeralds-unicorn.mp4" type="video/mp4">
   </video>
   <div class="jumbotron-overlay">
     <!-- Sugar Emeralds and Unicorn Horn -->
