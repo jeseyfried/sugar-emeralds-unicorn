@@ -3,7 +3,7 @@ title: Seyfried Research Story
 layout: base
 date: 2024-12-02
 ---
-<div class="jumbotron" style="position: relative; overflow: hidden; width: 100%; height: 400px; margin-bottom: 2rem;">
+<div class="jumbotron" style="height: 400px; position: relative; overflow: hidden; margin-bottom: 2rem;">
   <video id="heroVideo"
          autoplay
          muted
@@ -30,15 +30,16 @@ window.addEventListener('scroll', function() {
   }
 });
 </script>
-#A Research Story by Jonathan Seyfried
 
-## Why did Matha Armagnac drink pulverized gemstones?
+## A Research Story by Jonathan Seyfried
+
+### Why did Matha Armagnac drink pulverized gemstones?
 Info about Matha
 
-## The Research Question: How did medieval apothecaries and merchants construct medical knowledge?
+### The Research Question: How did medieval apothecaries and merchants construct medical knowledge?
 Info about substances and medicine
 
-## Three Commodities, Three Pathways to Medicine
+### Three Commodities, Three Pathways to Medicine
 Info about the pathways
 
 For more on adding features to your pages, see the documentation under the `Page Components` tab.
