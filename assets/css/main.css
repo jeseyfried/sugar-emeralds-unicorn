@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'Almendra';
+  src: url('../fonts/Almendra-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
@@ -7,14 +14,6 @@
 /*****************************************************
 PAGE SETUP
 *****************************************************/
-
-@font-face {
-  font-family: 'Almendra';
-  src: url('../fonts/Almendra-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
   
 #sheetrock {
   display:none;
