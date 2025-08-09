@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'Almendra';
-  src: url('/assets/fonts/almendra-regular-webfont.woff2') format('woff2'),
-       url('/assets/fonts/almendra-regular-webfont.woff') format('woff'),
-       url('/assets/fonts/Almendra-Regular.ttf') format('truetype');
+  src: url('{{site.baseurl}}/assets/fonts/almendra-regular-webfont.woff2') format('woff2'),
+       url('{{site.baseurl}}/assets/fonts/almendra-regular-webfont.woff') format('woff'),
+       url('{{site.baseurl}}/assets/fonts/Almendra-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
