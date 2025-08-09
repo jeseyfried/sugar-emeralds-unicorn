@@ -8,7 +8,7 @@ date: 2024-12-02
 # Sugar, Emeralds, and Unicorn Horn
 ## A Research Story by Jonathan Seyfried
 
-<div class="jumbotron" style="position: relative; overflow: hidden; height: 400px;">
+<div class="jumbotron" style="position: relative; overflow: hidden; weidth: 100vw height: 400px;">
   <video id="heroVideo" 
          autoplay 
          muted 
@@ -17,7 +17,7 @@ date: 2024-12-02
          style="width: 100%; height: 100%; object-fit: cover;">
     <source src="{{site.baseurl}}/assets/sugar-emeralds-unicorn.mp4" type="video/mp4">
   </video>
-  <div class="jumbotron-overlay">
+  <div class="jumbotron-overlay" style="position: relative; z-index: 2;>
     <!-- Sugar Emeralds and Unicorn Horn -->
   </div>
 </div>
