@@ -3,7 +3,7 @@ title: Seyfried Research Story
 layout: base
 date: 2024-12-02
 ---
-
+<link rel="stylesheet" href="/assets/css/main.css">
 
 # Sugar, Emeralds, and Unicorn Horn
 ## A Research Story by Jonathan Seyfried
