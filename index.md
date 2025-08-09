@@ -3,7 +3,7 @@ title: Seyfried Research Story
 layout: base
 date: 2024-12-02
 ---
-<div class="jumbotron" style="height: 400px; position: relative; overflow: hidden; margin-bottom: 2rem;">
+<div class="jumbotron.full-bleed" style="height: 400px; position: relative; overflow: hidden; margin-bottom: 2rem;">
   <video id="heroVideo"
          autoplay
          muted
