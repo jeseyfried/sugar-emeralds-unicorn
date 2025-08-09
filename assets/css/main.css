@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Almendra');
 
 
 @media screen {
@@ -52,7 +53,7 @@ TYPOGRAPHY
 *****************************************************/
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Georgia', sans-serif;
+  font-family: 'Almendra', serif;
   text-align:left;
   margin: 3rem 0 .4rem 0;
 }
@@ -64,7 +65,7 @@ h1 {
 }
 
 .home-title h1 {
-  font-family: 'Abril Fatface', sans-serif;
+  font-family: 'Almendra', sans-serif;
   color:#fff;
   font-size: 3rem;
   margin-top: -1.2em;
