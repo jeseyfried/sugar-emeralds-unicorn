@@ -27,7 +27,7 @@ html, body {
   height: 100vh;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.4em;
-  background-color: #fefefe;
+  background-color: #000000;
   font-size: 15px;
   width:100%;
 }
@@ -41,7 +41,7 @@ html, body {
 
 .page-content h1 {
   font-family: 'Almendra', serif;
-  color: #333;
+  color: #fefefe;
   font-size: 2.5rem;
   text-align: left;
   margin-bottom: 1em;
@@ -49,7 +49,7 @@ html, body {
 
 .page-content h2 {
   font-family: 'Almendra', serif;
-  color: #555;
+  color: #fefefe;
   font-size: 1.8rem;
   text-align: left;
   margin-bottom: 1em;
