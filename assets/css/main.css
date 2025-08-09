@@ -1,4 +1,4 @@
-@import url('https://fonts.bunny.net/css?family=almendra:400');
+@import url('https://fonts.googleapis.com/css2?family=Fondamento:ital@0;1&display=swap')
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
@@ -32,7 +32,7 @@ html, body {
 }
 
 .page-content h1 {
-  font-family: 'Almendra', serif;
+  font-family: 'Fondamento', cursive;
   color: #333;
   font-size: 2.5rem;
   text-align: left;
@@ -40,7 +40,7 @@ html, body {
 }
 
 .page-content h2 {
-  font-family: 'Almendra', serif;
+  font-family: 'Fondamento', cursive;
   color: #555;
   font-size: 1.8rem;
   text-align: left;
@@ -53,7 +53,7 @@ TYPOGRAPHY
 *****************************************************/
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Almendra', serif !important;
+  font-family: 'Fondamento', cursive !important;
   text-align:left;
   margin: 3rem 0 .4rem 0;
 }
@@ -65,7 +65,7 @@ h1 {
 }
 
 .home-title h1 {
-  font-family: 'Almendra', serif !important;
+  font-family: 'Fondamento', cursive !important;
   color:#fff;
   font-size: 3rem;
   margin-top: -1.2em;
