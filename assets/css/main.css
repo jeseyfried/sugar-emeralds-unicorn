@@ -33,7 +33,14 @@ html, body {
   width:100%;
 }
 
+.text-primary {
+  color: #fefefe;
+}
 
+body {
+  color: #fefefe !important;
+}
+  
 .container {
   max-width: 50rem;
   margin: 0 auto;
@@ -108,7 +115,7 @@ hr {
   clear:both;
 }
 
-p {
+body p {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.6em;
   margin-bottom: 1.5em;
