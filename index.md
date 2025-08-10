@@ -34,7 +34,7 @@ window.addEventListener('scroll', function() {
 </script>
 
 ## A Research Story by Jonathan Seyfried
-
+<br style="clear: both">
 ### Why did Matha Armagnac drink pulverized gemstones?
 Info about Matha
 
@@ -44,4 +44,4 @@ Info about substances and medicine
 ### Three Commodities, Three Pathways to Medicine
 Info about the pathways
 
-For more on adding features to your pages, see the documentation under the `Page Components` tab.
+
