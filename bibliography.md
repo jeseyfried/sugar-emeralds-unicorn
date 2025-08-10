@@ -9,8 +9,11 @@ date: 2024-12-02
 
 ### Primary Sources
 Archive of the Crown of Aragon, Real Patrimonio, Maestre Racional, Serie General. [https://pares.mcu.es/](https://pares.mcu.es/). Accessed June 6, 2025.
+
 Alfonso X, el Sabio. *The Lapidary of King Alfonso X the Learned.* Translated by Ingrid Bahler and Katherine Gyékényesi Gatto. New Orleans: University Press of the South, 1997.
+
 Balducci Pegolotti, Francesco. *La pratica della mercatura.* Cambridge, MA: Mediaeval Academy of America, 1936.
+
 Rocchi, Ambrogio de’. *Una pratica di mercatura in formazione (1394-1395) *. Edited by Bruno Dini. Florence: F. Le Monnier, 1980.
 <br style="clear: both">
 ### Secondary Sources
