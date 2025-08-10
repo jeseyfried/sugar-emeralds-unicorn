@@ -7,6 +7,7 @@
   font-style: normal;
   font-display: swap;
 }
+@import url('https://fonts.googleapis.com/css2?family=Unna');
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
@@ -116,7 +117,7 @@ hr {
 }
 
 body p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Unna', serif;
   line-height: 1.6em;
   margin-bottom: 1.5em;
 }
