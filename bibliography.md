@@ -23,11 +23,11 @@ Amar, Zohar, Efraim Lev, and Yaron Serri. “On Ibn Juljul and the Meaning and I
 
 Amar, Zohar, and Efraim Lev. “The Significance of the Genizah’s Medical Documents for the Study of Medieval Mediterranean Trade.” *Journal of the Economic and Social History of the Orient* 50, no. 4 (2007): 524–41.
 
-Ashtor, E. “The Volume of Mediaeval Spice Trade.” * Journal of European Economic History* 9, no. 3 (Winter 1980): 753–63.
+Ashtor, E. “The Volume of Mediaeval Spice Trade.” *Journal of European Economic History* 9, no. 3 (Winter 1980): 753–63.
 
 Azar, Henry A. *The Sage of Seville: Ibn Zuhr, His Time, and His Medical Legacy*. Cairo: American University in Cairo, 2008.
 
-Bénézet, Jean-Pierre. *Pharmacie et médicament en Méditerranée occidentale (XIIIe-XVIe siècles) *. Paris and Geneva: H. Champion; Slatkine, 1999.
+Bénézet, Jean-Pierre. *Pharmacie et médicament en Méditerranée occidentale (XIIIe-XVIe siècles)*. Paris and Geneva: H. Champion; Slatkine, 1999.
 
 Bol, Marjolijn. “The Emerald and the Eye: On Sight and Light in the Artisan’s Workshop and the Scholar’s Study.” In *Perspective as Practice: Renaissance Cultures of Optics*, 71–101. Turnhout: Brepols, 2019.
 
