@@ -34,6 +34,7 @@ window.addEventListener('scroll', function() {
 </script>
 
 ## A Research Story by Jonathan Seyfried
+### History PhD Student at the University of New Mexico
 <br style="clear: both">
 ### Why did Matha Armagnac drink pulverized gemstones?
 Info about Matha
