@@ -45,7 +45,7 @@ The idea for this paper came to me last summer as I read Josep Roca i Heras’s 
   class="left"
   width="45%"
   caption="Archive of the Crown of Aragon, Patrimonio Real, Maestre Racional, Serie General, Volume 614, folio 74r"
-  image-url="assets/images/backgrounds/davallano-1.jpg"
+  image-url="images/davallano-1.jpg"
 %}
 
 Looking at this record up-close, we can see Davallano’s name on the first line and then midway through, the price of thirty solidis for the first “polvora cordial en que entraren perles, safirs, maracdes, e altres pedres precioses.” I chose emeralds from this mixture for my study but I would certainly find interesting comparisons tracing the pearls and sapphires as well. 
