@@ -6,7 +6,7 @@ date: 2024-12-02
 <link rel="stylesheet" href="path/to/bootstrap.min.css">
 <link rel="stylesheet" href="assets/css/main.css">
 ## Bibliography
-
+<br style="clear: both">
 ### Primary Sources
 Archive of the Crown of Aragon, Real Patrimonio, Maestre Racional, Serie General. [https://pares.mcu.es/](https://pares.mcu.es/). Accessed June 6, 2025.
 
