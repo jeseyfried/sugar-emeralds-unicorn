@@ -112,7 +112,12 @@ Based on modern knowledge of narwhal habitats and migratory patterns, Xavier Dec
 <br style="clear: both">
 From there it is reasonable to speculate that the tusks entered into a trade network of the most precious objects, handled by specialist merchants like those alluded to by Zohar Amar in his discussion of gemstones. By the time the unicorn horn arrived to Joan, it had probably passed through the hands of several elite actors. Unliked sugar or emeralds, unicorn horn never became an ingredient. It was always powerful all on its own. Its immense value caused it to quickly exit merchant channels and then it got transported through elite networks of exchange, typified by Joan’s gifting of some to the Avignon Popes. The prestige of unicorn horn continued until the advent of modern science. By the fifteenth century more records emerge of unicorn horn products in the inventories of the members of European royal families and other elites interested in the most glorious conspicuous consumption.  The legacy of this most prestigious of objects reverberated through subsequent centuries. The royal throne of Denmark contains several large pieces of narwhal tusk.
 
-
+{% include figure.html
+  class="left"
+  width="45%"
+  caption="The royal throne of Denmark, used as a coronation chair from 1671-1840. Photo by Sven Rosborn. Source: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/68/Coronation_Chair_Denmark_%28King%29.jpg)"
+  image-path="images/denmark-throne.jpg"
+%}
 ### Conclusion
 Merchants and spicers were indeed agents of medicinal knowledge transfer for sugar, but less so for emeralds and unicorn horn. For emeralds, all signs point to a similar operation of trust through trade networks, like those described by Gunnar Dahl, but too specialized to have left much of a documentary record. For unicorn horn, however, the spicers and apothecaries got cut out of the equation. Elite actors transported this commodity of highest prestige and transferred knowledge of its properties.
 
