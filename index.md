@@ -110,7 +110,16 @@ Based on modern knowledge of narwhal habitats and migratory patterns, Xavier Dec
   image-path="images/unicorn-2.jpg"
 %}
 <br style="clear: both">
-From there it is reasonable to speculate that the tusks entered into a trade network of the most precious objects, handled by specialist merchants like those alluded to by Zohar Amar in his discussion of gemstones. By the time the unicorn horn arrived to Joan, it had probably passed through the hands of several elite actors. Unliked sugar or emeralds, unicorn horn never became an ingredient. It was always powerful all on its own. Its immense value caused it to quickly exit merchant channels and then it got transported through elite networks of exchange, typified by Joan’s gifting of some to the Avignon Popes. The prestige of unicorn horn continued until the advent of modern science. By the fifteenth century more records emerge of unicorn horn products in the inventories of the members of European royal families and other elites interested in the most glorious conspicuous consumption.  The legacy of this most prestigious of objects reverberated through subsequent centuries. The royal throne of Denmark contains several large pieces of narwhal tusk.
+From there it is reasonable to speculate that the tusks entered into a trade network of the most precious objects, handled by specialist merchants like those alluded to by Zohar Amar in his discussion of gemstones. By the time the unicorn horn arrived to Joan, it had probably passed through the hands of several elite actors. Unliked sugar or emeralds, unicorn horn never became an ingredient. It was always powerful all on its own. Its immense value caused it to quickly exit merchant channels and then it got transported through elite networks of exchange, typified by Joan’s gifting of some to the Avignon Popes. The below image is the second page of Joan's 1393 letter to the Avignon Pope, Clement VII.
+
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="Archive of the Crown of Aragon, Cancilleria Real, Registro 1965, folio 23r"
+  image-path="images/joan-to-pope.jpg"
+%}
+
+The prestige of unicorn horn continued until the advent of modern science. By the fifteenth century more records emerge of unicorn horn products in the inventories of the members of European royal families and other elites interested in the most glorious conspicuous consumption.  The legacy of this most prestigious of objects reverberated through subsequent centuries. The royal throne of Denmark contains several large pieces of narwhal tusk.
 
 {% include figure.html
   class="left"
