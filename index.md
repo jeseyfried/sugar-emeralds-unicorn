@@ -63,6 +63,13 @@ Since the volume of sugar traded medieval Europe far outnumbered that of emerald
 
 By the fourteenth century, Francesco Pegolotti’s merchant handbook contained thirteen varieties of sugar.[^Freedman2] The account books of a Barcelona apothecary, Francesc de Canes, demonstrate that by the Late Middle Ages, sugar had entirely triumphed over honey as a sweetener.[^Vela] The answer to the question on this slide, for at least some regions of the Mediterranean, is that sugar became medicine almost immediately upon its arrival. As we shall see in a moment, however, the status of sugar as a medicine versus culinary sweetener varied across time and place.
 
+{% include figure.html
+  class="left"
+  width="45%"
+  caption="Record cover for the song 'A Spoonful of Sugar' by Walt Disney Records - Disneyland Records, Fair Use. Source: [Wikimedia Commons](https://en.wikipedia.org/w/index.php?curid=41380917)."
+  image-path="images/spoonful.jpg"
+%}
+
 We might readily recall the classic line from Mary Poppins, “a spoonful of sugar makes the medicine go down.” Sugar by itself rarely appears as a recommended medicine. However, the idea that something tasty possessed beneficial health qualities fit nicely within the humoric medical theories of the time. Thus, sugar became a key ingredient in medicinal syrups and electuaries. Muslim scholars in Al-Andalus, such as Ibn Baytar and Al-Zahrawi led the field of pharmacology and their recipes featured sugar ubiquitously.[^DeVos] However, in the thirteenth century pharmacopoeia written by Minhāj al-dukkān, a Jewish pharmacist in Mamluk Cairo, sugar appears with equal emphasis for cuisine and medicine.[^Chipman]  Likewise, in the Cairo Genizah, sugar appeared as a key ingredient in pharmacy lists, but also listed alongside culinary spices in several merchant communications. However, this varied across different localities. Freedman notes that in the fourteenth century the English used sugar extensively in cooking but the French considered it a medicine.[^Freedman3]
 
 For sugar, evidence exists for the intertwining of commerical ties and transfer of its medical uses. In Barcelona, we see the trade networks of merchants and apothecaries tightly woven together. Apothecaries such as Bartomeu Saragossa and Francesc de Camp had sugar refining equipment in their inventories and established relationships with merchants as well as masters of sugarcane cultivation such as Niccolò de Scicli.[^Ouerfelli] Likewise, evidence of the close connections between apothecaries and merchants pervades the records of England’s Royal Apothecaries, in which the wholesalers often blend with retailers.[^Matthews]  
