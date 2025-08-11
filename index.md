@@ -84,7 +84,7 @@ Eventually, by the end of the sixteenth century, the trade in unicorn horn picke
 
 {% include aside.html
   class="left"
-  text="Precious stones were not traded in the regular commercial system like other expensive goods and products, but personally by specialists. -Zohar Amar, *Arabian Drugs in Medieval Medicine*.[^Amar]"
+  text="Precious stones were not traded in the regular commercial system like other expensive goods and products, but personally by specialists. -Zohar Amar, *Arabian Drugs in Medieval Medicine*."
   %}
 
 Based on modern knowledge of narwhal habitats and migratory patterns, Xavier Dectot has identified Disko Bay on the west coast of Greenland as the only likely source for narwhal tusks for premodern Europeans. The narwhal migrate southward to this location every winter, but according to archeological and documentary evidence medieval Norse Greenlanders journeyed to Disko Bay only in the summer. Thus, the source for narwhal tusks could only have been the washed-up remains of dead narwhal that the Norse Greenlanders found. This increases the plausibility that from the very start of the supply chain, those who traded in narwhal tusks earnestly communicated them as, if not unicorn horn, then at the very least the remains of fantastic beasts from a far away land. Indeed, the tusks, which could grow up to fourteen feet long, have a swirl texture that appears otherworldly. 
