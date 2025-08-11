@@ -1,6 +1,6 @@
 port: 4001
 
-baseurl: 
+baseurl: /sugar-emeralds-unicorn/
 
 essay-images: /essays/images
 
