@@ -99,7 +99,7 @@ Based on modern knowledge of narwhal habitats and migratory patterns, Xavier Dec
 {% include figure.html
   class="left"
   width="45%"
-  caption="A view of the entire tusk."
+  caption="A view of an entire narwhal tusk."
   image-path="images/unicorn-2.jpg"
 %}
 
