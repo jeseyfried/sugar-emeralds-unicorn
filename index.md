@@ -33,8 +33,9 @@ window.addEventListener('scroll', function() {
 });
 </script>
 
-## A Research Story by Jonathan Seyfried
+## Research Story by Jonathan Seyfried
 ### History PhD Student at the University of New Mexico
+### Posted: August 10, 2025
 <br style="clear: both">
 ### Why did Matha Armagnac drink pulverized gemstones?
 In the spring of 1375, Matha d’Armagnac, the Duchess of Girona, drank a solution made with pulverized emeralds as a key ingredient. If the gemstones worked as predicted by the apothecary, Matha’s pregnancy would result in the birth of a strong boy. In preparing the mixture, the apothecary, named Johan Davallano, learned the appropriate quantities of gemstones, but he also needed to trust the supply chain that brought the ingredients to his shop. 
@@ -65,7 +66,7 @@ By the fourteenth century, Francesco Pegolotti’s merchant handbook contained t
 
 {% include figure.html
   class="left"
-  width="45%"
+  width="30%"
   caption="Record cover for the song 'A Spoonful of Sugar' by Walt Disney Records - Disneyland Records, Fair Use. Source: [Wikimedia Commons](https://en.wikipedia.org/w/index.php?curid=41380917)."
   image-path="images/spoonful.jpg"
 %}
